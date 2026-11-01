@@ -814,7 +814,7 @@ Through this project, I applied data analysis to turn quantitative findings into
 
 ## 10. Dashboard / Final Visualization
 
--  ![alt text](image.png).
+- ![Dashboard Overview](DashboardWarehouse.png).
 - **5 KPI Cards:** Total SKUs (300), Stockout Risk (103), Backorder Rate (10.26%), Total Assets (Rp347.35 billion), and Average Supplier Lead Time (17.11 days).
 - **Insight Panel:** 6 key findings highlighting stockout risks, high reorder levels, overstock capital, supplier performance, warehouse asset density, and backorder rate differences.
 - **Stock Distribution Donut Chart:** Displays the distribution of 2,328 product-warehouse combinations across stock statuses: Aman, Overstock, Waspada, Stockout, Tidak Aktif, and Kritis.
