@@ -1,3 +1,0 @@
-git add products.csv purchase_orders.csv sales_orders.csv stock_movements.csv suppliers.csv warehouses.csv
-git commit -m "Menambahkan file csv produk dan pesanan"
-git push origin main
