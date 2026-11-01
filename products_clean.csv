@@ -1,0 +1,301 @@
+product_id,product_name,category,supplier_id,unit_cost,reorder_level
+IPRD-0001,"Inventory Product 1",Consumable,SUP-0079,222000,228
+IPRD-0002,"Inventory Product 2",Packaging,SUP-0064,180000,182
+IPRD-0003,"Inventory Product 3","Raw Material",SUP-0039,490600,102
+IPRD-0004,"Inventory Product 4",Sparepart,SUP-0066,519300,260
+IPRD-0005,"Inventory Product 5","Finished Goods",SUP-0014,651300,192
+IPRD-0006,"Inventory Product 6","Raw Material",SUP-0079,625000,187
+IPRD-0007,"Inventory Product 7","Finished Goods",SUP-0026,261000,300
+IPRD-0008,"Inventory Product 8",Consumable,SUP-0070,609000,20
+IPRD-0009,"Inventory Product 9","Raw Material",SUP-0018,158100,35
+IPRD-0010,"Inventory Product 10",Consumable,SUP-0050,642400,137
+IPRD-0011,"Inventory Product 11",Packaging,SUP-0039,527300,263
+IPRD-0012,"Inventory Product 12",Packaging,SUP-0078,658100,278
+IPRD-0013,"Inventory Product 13",Sparepart,SUP-0011,224200,90
+IPRD-0014,"Inventory Product 14","Raw Material",SUP-0078,511000,118
+IPRD-0015,"Inventory Product 15",Sparepart,SUP-0020,659100,141
+IPRD-0016,"Inventory Product 16",Packaging,SUP-0043,628300,238
+IPRD-0017,"Inventory Product 17",Packaging,SUP-0054,216900,217
+IPRD-0018,"Inventory Product 18",Packaging,SUP-0014,799800,182
+IPRD-0019,"Inventory Product 19","Raw Material",SUP-0007,18200,294
+IPRD-0020,"Inventory Product 20",Sparepart,SUP-0050,299000,29
+IPRD-0021,"Inventory Product 21",Sparepart,SUP-0053,733300,76
+IPRD-0022,"Inventory Product 22",Sparepart,SUP-0035,204600,265
+IPRD-0023,"Inventory Product 23",Consumable,SUP-0080,24400,277
+IPRD-0024,"Inventory Product 24",Packaging,SUP-0063,456700,139
+IPRD-0025,"Inventory Product 25","Raw Material",SUP-0027,250100,77
+IPRD-0026,"Inventory Product 26","Raw Material",SUP-0023,674800,286
+IPRD-0027,"Inventory Product 27",Sparepart,SUP-0046,627000,54
+IPRD-0028,"Inventory Product 28","Raw Material",SUP-0003,381000,268
+IPRD-0029,"Inventory Product 29",Consumable,SUP-0062,670100,290
+IPRD-0030,"Inventory Product 30",Packaging,SUP-0028,615700,82
+IPRD-0031,"Inventory Product 31","Finished Goods",SUP-0032,550200,173
+IPRD-0032,"Inventory Product 32","Finished Goods",SUP-0054,689200,220
+IPRD-0033,"Inventory Product 33",Sparepart,SUP-0073,81700,230
+IPRD-0034,"Inventory Product 34",Sparepart,SUP-0015,177600,298
+IPRD-0035,"Inventory Product 35",Sparepart,SUP-0009,738200,199
+IPRD-0036,"Inventory Product 36","Raw Material",SUP-0003,352900,63
+IPRD-0037,"Inventory Product 37",Packaging,SUP-0022,371800,90
+IPRD-0038,"Inventory Product 38",Packaging,SUP-0065,9000,187
+IPRD-0039,"Inventory Product 39",Consumable,SUP-0070,240500,65
+IPRD-0040,"Inventory Product 40","Finished Goods",SUP-0018,381400,282
+IPRD-0041,"Inventory Product 41","Finished Goods",SUP-0007,252000,172
+IPRD-0042,"Inventory Product 42",Consumable,SUP-0047,508000,31
+IPRD-0043,"Inventory Product 43",Consumable,SUP-0051,325100,272
+IPRD-0044,"Inventory Product 44",Sparepart,SUP-0004,756900,23
+IPRD-0045,"Inventory Product 45",Consumable,SUP-0004,782400,194
+IPRD-0046,"Inventory Product 46","Finished Goods",SUP-0051,326100,21
+IPRD-0047,"Inventory Product 47","Raw Material",SUP-0052,177900,206
+IPRD-0048,"Inventory Product 48","Raw Material",SUP-0068,627000,187
+IPRD-0049,"Inventory Product 49",Sparepart,SUP-0071,175100,33
+IPRD-0050,"Inventory Product 50","Finished Goods",SUP-0007,434800,80
+IPRD-0051,"Inventory Product 51",Consumable,SUP-0007,355900,186
+IPRD-0052,"Inventory Product 52",Packaging,SUP-0007,574200,139
+IPRD-0053,"Inventory Product 53","Finished Goods",SUP-0008,777300,251
+IPRD-0054,"Inventory Product 54","Finished Goods",SUP-0050,162700,24
+IPRD-0055,"Inventory Product 55",Sparepart,SUP-0046,380600,94
+IPRD-0056,"Inventory Product 56",Sparepart,SUP-0035,543600,111
+IPRD-0057,"Inventory Product 57",Consumable,SUP-0029,477100,74
+IPRD-0058,"Inventory Product 58","Raw Material",SUP-0054,666800,79
+IPRD-0059,"Inventory Product 59",Sparepart,SUP-0007,613100,70
+IPRD-0060,"Inventory Product 60","Raw Material",SUP-0022,371600,238
+IPRD-0061,"Inventory Product 61",Packaging,SUP-0029,354000,268
+IPRD-0062,"Inventory Product 62",Consumable,SUP-0072,649800,48
+IPRD-0063,"Inventory Product 63","Raw Material",SUP-0035,172400,248
+IPRD-0064,"Inventory Product 64",Consumable,SUP-0018,29000,272
+IPRD-0065,"Inventory Product 65","Raw Material",SUP-0021,517100,127
+IPRD-0066,"Inventory Product 66",Packaging,SUP-0020,485100,153
+IPRD-0067,"Inventory Product 67",Packaging,SUP-0018,448900,248
+IPRD-0068,"Inventory Product 68",Sparepart,SUP-0013,214600,278
+IPRD-0069,"Inventory Product 69","Finished Goods",SUP-0022,780400,59
+IPRD-0070,"Inventory Product 70",Consumable,SUP-0021,508800,99
+IPRD-0071,"Inventory Product 71",Sparepart,SUP-0006,119700,85
+IPRD-0072,"Inventory Product 72","Raw Material",SUP-0046,723200,265
+IPRD-0073,"Inventory Product 73",Packaging,SUP-0002,457500,124
+IPRD-0074,"Inventory Product 74","Raw Material",SUP-0061,236000,37
+IPRD-0075,"Inventory Product 75","Finished Goods",SUP-0041,89200,155
+IPRD-0076,"Inventory Product 76","Raw Material",SUP-0012,606800,89
+IPRD-0077,"Inventory Product 77",Consumable,SUP-0042,181000,228
+IPRD-0078,"Inventory Product 78",Sparepart,SUP-0031,401700,232
+IPRD-0079,"Inventory Product 79",Consumable,SUP-0049,212200,116
+IPRD-0080,"Inventory Product 80",Consumable,SUP-0011,102300,159
+IPRD-0081,"Inventory Product 81",Consumable,SUP-0001,37700,70
+IPRD-0082,"Inventory Product 82","Raw Material",SUP-0031,16000,142
+IPRD-0083,"Inventory Product 83",Consumable,SUP-0061,49100,163
+IPRD-0084,"Inventory Product 84","Raw Material",SUP-0055,589000,272
+IPRD-0085,"Inventory Product 85",Sparepart,SUP-0025,540800,119
+IPRD-0086,"Inventory Product 86",Sparepart,SUP-0055,217300,257
+IPRD-0087,"Inventory Product 87","Finished Goods",SUP-0028,30400,192
+IPRD-0088,"Inventory Product 88","Finished Goods",SUP-0034,611200,270
+IPRD-0089,"Inventory Product 89","Finished Goods",SUP-0057,109900,240
+IPRD-0090,"Inventory Product 90","Finished Goods",SUP-0018,488100,46
+IPRD-0091,"Inventory Product 91",Packaging,SUP-0005,291800,205
+IPRD-0092,"Inventory Product 92","Raw Material",SUP-0055,360900,109
+IPRD-0093,"Inventory Product 93","Finished Goods",SUP-0072,33100,287
+IPRD-0094,"Inventory Product 94","Finished Goods",SUP-0048,160200,163
+IPRD-0095,"Inventory Product 95",Sparepart,SUP-0034,223800,88
+IPRD-0096,"Inventory Product 96",Sparepart,SUP-0033,541700,235
+IPRD-0097,"Inventory Product 97","Finished Goods",SUP-0035,773000,78
+IPRD-0098,"Inventory Product 98","Finished Goods",SUP-0075,730100,217
+IPRD-0099,"Inventory Product 99","Raw Material",SUP-0070,110800,130
+IPRD-0100,"Inventory Product 100","Raw Material",SUP-0003,601700,282
+IPRD-0101,"Inventory Product 101","Finished Goods",SUP-0066,401100,186
+IPRD-0102,"Inventory Product 102","Finished Goods",SUP-0074,610400,153
+IPRD-0103,"Inventory Product 103",Packaging,SUP-0021,89200,27
+IPRD-0104,"Inventory Product 104",Sparepart,SUP-0025,394300,31
+IPRD-0105,"Inventory Product 105",Consumable,SUP-0012,608800,153
+IPRD-0106,"Inventory Product 106","Finished Goods",SUP-0061,458400,203
+IPRD-0107,"Inventory Product 107",Sparepart,SUP-0035,220400,123
+IPRD-0108,"Inventory Product 108",Sparepart,SUP-0013,682500,175
+IPRD-0109,"Inventory Product 109","Raw Material",SUP-0067,6400,261
+IPRD-0110,"Inventory Product 110","Finished Goods",SUP-0072,110200,24
+IPRD-0111,"Inventory Product 111","Finished Goods",SUP-0041,543000,83
+IPRD-0112,"Inventory Product 112","Finished Goods",SUP-0008,409900,69
+IPRD-0113,"Inventory Product 113",Packaging,SUP-0071,361900,61
+IPRD-0114,"Inventory Product 114",Consumable,SUP-0024,173700,42
+IPRD-0115,"Inventory Product 115",Consumable,SUP-0067,280900,279
+IPRD-0116,"Inventory Product 116",Sparepart,SUP-0058,225100,56
+IPRD-0117,"Inventory Product 117",Packaging,SUP-0022,495200,34
+IPRD-0118,"Inventory Product 118","Finished Goods",SUP-0075,492200,282
+IPRD-0119,"Inventory Product 119",Packaging,SUP-0035,32400,217
+IPRD-0120,"Inventory Product 120",Packaging,SUP-0047,102600,258
+IPRD-0121,"Inventory Product 121",Sparepart,SUP-0039,369900,188
+IPRD-0122,"Inventory Product 122","Finished Goods",SUP-0004,320000,219
+IPRD-0123,"Inventory Product 123","Raw Material",SUP-0044,240800,221
+IPRD-0124,"Inventory Product 124",Packaging,SUP-0035,136600,188
+IPRD-0125,"Inventory Product 125",Sparepart,SUP-0069,419100,140
+IPRD-0126,"Inventory Product 126",Packaging,SUP-0012,370200,267
+IPRD-0127,"Inventory Product 127",Consumable,SUP-0076,57800,214
+IPRD-0128,"Inventory Product 128","Finished Goods",SUP-0046,660800,147
+IPRD-0129,"Inventory Product 129","Finished Goods",SUP-0067,757800,283
+IPRD-0130,"Inventory Product 130","Finished Goods",SUP-0071,25500,270
+IPRD-0131,"Inventory Product 131",Packaging,SUP-0046,16500,221
+IPRD-0132,"Inventory Product 132","Raw Material",SUP-0069,514600,235
+IPRD-0133,"Inventory Product 133",Sparepart,SUP-0052,559000,30
+IPRD-0134,"Inventory Product 134",Consumable,SUP-0011,15800,267
+IPRD-0135,"Inventory Product 135","Raw Material",SUP-0007,563500,26
+IPRD-0136,"Inventory Product 136",Packaging,SUP-0078,462200,235
+IPRD-0137,"Inventory Product 137",Packaging,SUP-0080,422500,58
+IPRD-0138,"Inventory Product 138",Packaging,SUP-0054,358900,266
+IPRD-0139,"Inventory Product 139",Sparepart,SUP-0039,473100,285
+IPRD-0140,"Inventory Product 140",Sparepart,SUP-0066,35700,180
+IPRD-0141,"Inventory Product 141","Raw Material",SUP-0049,692400,46
+IPRD-0142,"Inventory Product 142",Sparepart,SUP-0039,729100,96
+IPRD-0143,"Inventory Product 143",Consumable,SUP-0077,584300,176
+IPRD-0144,"Inventory Product 144",Packaging,SUP-0007,781000,64
+IPRD-0145,"Inventory Product 145",Sparepart,SUP-0067,557400,169
+IPRD-0146,"Inventory Product 146","Raw Material",SUP-0022,646600,237
+IPRD-0147,"Inventory Product 147","Raw Material",SUP-0009,318400,276
+IPRD-0148,"Inventory Product 148","Raw Material",SUP-0058,606300,291
+IPRD-0149,"Inventory Product 149",Consumable,SUP-0027,316400,233
+IPRD-0150,"Inventory Product 150",Sparepart,SUP-0029,196900,131
+IPRD-0151,"Inventory Product 151",Consumable,SUP-0060,359700,236
+IPRD-0152,"Inventory Product 152",Packaging,SUP-0004,608500,53
+IPRD-0153,"Inventory Product 153",Consumable,SUP-0034,586200,51
+IPRD-0154,"Inventory Product 154","Raw Material",SUP-0022,605600,27
+IPRD-0155,"Inventory Product 155","Finished Goods",SUP-0064,616800,51
+IPRD-0156,"Inventory Product 156",Packaging,SUP-0052,354300,261
+IPRD-0157,"Inventory Product 157","Raw Material",SUP-0027,453100,276
+IPRD-0158,"Inventory Product 158","Raw Material",SUP-0041,228700,111
+IPRD-0159,"Inventory Product 159",Consumable,SUP-0050,282500,38
+IPRD-0160,"Inventory Product 160",Sparepart,SUP-0064,39800,87
+IPRD-0161,"Inventory Product 161",Consumable,SUP-0025,359200,202
+IPRD-0162,"Inventory Product 162",Packaging,SUP-0028,631100,118
+IPRD-0163,"Inventory Product 163",Consumable,SUP-0063,535300,37
+IPRD-0164,"Inventory Product 164",Consumable,SUP-0032,525200,172
+IPRD-0165,"Inventory Product 165",Packaging,SUP-0049,701900,179
+IPRD-0166,"Inventory Product 166","Raw Material",SUP-0074,467300,137
+IPRD-0167,"Inventory Product 167","Raw Material",SUP-0012,13100,98
+IPRD-0168,"Inventory Product 168",Consumable,SUP-0066,706300,289
+IPRD-0169,"Inventory Product 169",Consumable,SUP-0027,142200,189
+IPRD-0170,"Inventory Product 170","Finished Goods",SUP-0019,341500,70
+IPRD-0171,"Inventory Product 171",Packaging,SUP-0073,186700,299
+IPRD-0172,"Inventory Product 172",Sparepart,SUP-0073,100300,135
+IPRD-0173,"Inventory Product 173",Packaging,SUP-0033,314100,23
+IPRD-0174,"Inventory Product 174","Finished Goods",SUP-0005,36800,250
+IPRD-0175,"Inventory Product 175",Sparepart,SUP-0063,387500,187
+IPRD-0176,"Inventory Product 176",Packaging,SUP-0033,235800,297
+IPRD-0177,"Inventory Product 177","Raw Material",SUP-0020,728200,40
+IPRD-0178,"Inventory Product 178","Finished Goods",SUP-0028,483400,259
+IPRD-0179,"Inventory Product 179",Consumable,SUP-0079,268700,51
+IPRD-0180,"Inventory Product 180",Sparepart,SUP-0064,178100,222
+IPRD-0181,"Inventory Product 181",Sparepart,SUP-0064,193700,281
+IPRD-0182,"Inventory Product 182",Sparepart,SUP-0017,347300,197
+IPRD-0183,"Inventory Product 183",Sparepart,SUP-0006,757300,71
+IPRD-0184,"Inventory Product 184","Finished Goods",SUP-0025,265300,29
+IPRD-0185,"Inventory Product 185",Packaging,SUP-0059,257600,53
+IPRD-0186,"Inventory Product 186","Finished Goods",SUP-0051,774500,129
+IPRD-0187,"Inventory Product 187",Packaging,SUP-0073,512500,84
+IPRD-0188,"Inventory Product 188",Packaging,SUP-0023,197800,248
+IPRD-0189,"Inventory Product 189","Raw Material",SUP-0079,474900,294
+IPRD-0190,"Inventory Product 190",Consumable,SUP-0043,232000,129
+IPRD-0191,"Inventory Product 191","Finished Goods",SUP-0059,687000,25
+IPRD-0192,"Inventory Product 192","Raw Material",SUP-0042,55700,200
+IPRD-0193,"Inventory Product 193",Packaging,SUP-0067,715600,31
+IPRD-0194,"Inventory Product 194",Consumable,SUP-0010,662900,214
+IPRD-0195,"Inventory Product 195",Packaging,SUP-0025,18600,139
+IPRD-0196,"Inventory Product 196",Packaging,SUP-0038,623500,285
+IPRD-0197,"Inventory Product 197","Raw Material",SUP-0066,406800,75
+IPRD-0198,"Inventory Product 198","Raw Material",SUP-0022,528200,285
+IPRD-0199,"Inventory Product 199",Sparepart,SUP-0070,228300,278
+IPRD-0200,"Inventory Product 200","Raw Material",SUP-0060,306000,162
+IPRD-0201,"Inventory Product 201","Finished Goods",SUP-0006,437600,180
+IPRD-0202,"Inventory Product 202",Consumable,SUP-0010,756300,195
+IPRD-0203,"Inventory Product 203",Sparepart,SUP-0075,101900,26
+IPRD-0204,"Inventory Product 204",Packaging,SUP-0050,165700,116
+IPRD-0205,"Inventory Product 205","Raw Material",SUP-0060,150300,165
+IPRD-0206,"Inventory Product 206","Raw Material",SUP-0027,215900,92
+IPRD-0207,"Inventory Product 207","Raw Material",SUP-0012,189800,203
+IPRD-0208,"Inventory Product 208","Finished Goods",SUP-0044,141800,252
+IPRD-0209,"Inventory Product 209",Packaging,SUP-0029,764300,177
+IPRD-0210,"Inventory Product 210",Consumable,SUP-0009,684300,211
+IPRD-0211,"Inventory Product 211",Consumable,SUP-0046,199800,22
+IPRD-0212,"Inventory Product 212","Raw Material",SUP-0027,459300,299
+IPRD-0213,"Inventory Product 213","Finished Goods",SUP-0045,353200,81
+IPRD-0214,"Inventory Product 214",Consumable,SUP-0035,262500,77
+IPRD-0215,"Inventory Product 215",Sparepart,SUP-0080,100000,77
+IPRD-0216,"Inventory Product 216","Finished Goods",SUP-0070,27200,166
+IPRD-0217,"Inventory Product 217","Raw Material",SUP-0045,59500,142
+IPRD-0218,"Inventory Product 218",Consumable,SUP-0028,523600,219
+IPRD-0219,"Inventory Product 219",Consumable,SUP-0032,575800,286
+IPRD-0220,"Inventory Product 220","Finished Goods",SUP-0061,388200,138
+IPRD-0221,"Inventory Product 221","Finished Goods",SUP-0006,768800,151
+IPRD-0222,"Inventory Product 222",Packaging,SUP-0072,683700,183
+IPRD-0223,"Inventory Product 223",Packaging,SUP-0012,420600,77
+IPRD-0224,"Inventory Product 224",Sparepart,SUP-0001,597300,181
+IPRD-0225,"Inventory Product 225",Consumable,SUP-0046,357500,273
+IPRD-0226,"Inventory Product 226",Packaging,SUP-0012,44100,294
+IPRD-0227,"Inventory Product 227",Consumable,SUP-0001,404400,254
+IPRD-0228,"Inventory Product 228",Sparepart,SUP-0032,565300,68
+IPRD-0229,"Inventory Product 229","Raw Material",SUP-0064,549200,245
+IPRD-0230,"Inventory Product 230",Packaging,SUP-0043,692100,283
+IPRD-0231,"Inventory Product 231",Consumable,SUP-0033,770000,127
+IPRD-0232,"Inventory Product 232","Raw Material",SUP-0005,158400,148
+IPRD-0233,"Inventory Product 233",Packaging,SUP-0047,750500,215
+IPRD-0234,"Inventory Product 234",Sparepart,SUP-0039,185700,178
+IPRD-0235,"Inventory Product 235",Packaging,SUP-0046,779000,299
+IPRD-0236,"Inventory Product 236","Raw Material",SUP-0047,134400,281
+IPRD-0237,"Inventory Product 237","Raw Material",SUP-0065,635100,284
+IPRD-0238,"Inventory Product 238","Finished Goods",SUP-0054,334000,188
+IPRD-0239,"Inventory Product 239","Raw Material",SUP-0063,25900,240
+IPRD-0240,"Inventory Product 240",Consumable,SUP-0014,619200,141
+IPRD-0241,"Inventory Product 241",Packaging,SUP-0044,766200,296
+IPRD-0242,"Inventory Product 242",Sparepart,SUP-0048,735100,148
+IPRD-0243,"Inventory Product 243",Sparepart,SUP-0019,464600,273
+IPRD-0244,"Inventory Product 244","Raw Material",SUP-0015,714600,227
+IPRD-0245,"Inventory Product 245",Sparepart,SUP-0062,424300,218
+IPRD-0246,"Inventory Product 246",Sparepart,SUP-0045,31100,251
+IPRD-0247,"Inventory Product 247",Sparepart,SUP-0063,62300,24
+IPRD-0248,"Inventory Product 248",Sparepart,SUP-0034,130900,73
+IPRD-0249,"Inventory Product 249","Raw Material",SUP-0038,713500,143
+IPRD-0250,"Inventory Product 250",Packaging,SUP-0079,708100,195
+IPRD-0251,"Inventory Product 251",Sparepart,SUP-0032,58300,183
+IPRD-0252,"Inventory Product 252",Sparepart,SUP-0018,366100,114
+IPRD-0253,"Inventory Product 253","Raw Material",SUP-0073,112400,255
+IPRD-0254,"Inventory Product 254",Packaging,SUP-0057,368800,220
+IPRD-0255,"Inventory Product 255","Raw Material",SUP-0058,137900,191
+IPRD-0256,"Inventory Product 256","Raw Material",SUP-0042,265400,115
+IPRD-0257,"Inventory Product 257",Packaging,SUP-0039,738900,56
+IPRD-0258,"Inventory Product 258",Packaging,SUP-0042,194500,276
+IPRD-0259,"Inventory Product 259",Packaging,SUP-0030,319800,143
+IPRD-0260,"Inventory Product 260","Finished Goods",SUP-0057,380800,172
+IPRD-0261,"Inventory Product 261","Raw Material",SUP-0056,231000,266
+IPRD-0262,"Inventory Product 262",Sparepart,SUP-0007,50400,112
+IPRD-0263,"Inventory Product 263",Sparepart,SUP-0045,68400,91
+IPRD-0264,"Inventory Product 264",Packaging,SUP-0019,712500,266
+IPRD-0265,"Inventory Product 265",Consumable,SUP-0030,508800,189
+IPRD-0266,"Inventory Product 266","Raw Material",SUP-0061,493400,119
+IPRD-0267,"Inventory Product 267",Sparepart,SUP-0038,715500,112
+IPRD-0268,"Inventory Product 268",Consumable,SUP-0077,669100,150
+IPRD-0269,"Inventory Product 269","Raw Material",SUP-0080,248200,139
+IPRD-0270,"Inventory Product 270",Consumable,SUP-0068,533700,278
+IPRD-0271,"Inventory Product 271","Raw Material",SUP-0053,218200,60
+IPRD-0272,"Inventory Product 272","Raw Material",SUP-0071,775800,199
+IPRD-0273,"Inventory Product 273",Consumable,SUP-0012,161700,254
+IPRD-0274,"Inventory Product 274",Packaging,SUP-0028,140400,248
+IPRD-0275,"Inventory Product 275",Packaging,SUP-0047,549400,24
+IPRD-0276,"Inventory Product 276",Consumable,SUP-0059,536800,271
+IPRD-0277,"Inventory Product 277","Finished Goods",SUP-0047,155800,25
+IPRD-0278,"Inventory Product 278","Raw Material",SUP-0005,768500,232
+IPRD-0279,"Inventory Product 279","Finished Goods",SUP-0080,96600,281
+IPRD-0280,"Inventory Product 280",Sparepart,SUP-0047,129800,181
+IPRD-0281,"Inventory Product 281",Packaging,SUP-0048,405600,129
+IPRD-0282,"Inventory Product 282","Raw Material",SUP-0009,163800,181
+IPRD-0283,"Inventory Product 283","Raw Material",SUP-0010,631800,157
+IPRD-0284,"Inventory Product 284","Finished Goods",SUP-0031,311900,152
+IPRD-0285,"Inventory Product 285",Sparepart,SUP-0035,146800,197
+IPRD-0286,"Inventory Product 286",Consumable,SUP-0056,56900,134
+IPRD-0287,"Inventory Product 287","Raw Material",SUP-0039,795200,68
+IPRD-0288,"Inventory Product 288",Sparepart,SUP-0059,329300,105
+IPRD-0289,"Inventory Product 289",Packaging,SUP-0036,723400,196
+IPRD-0290,"Inventory Product 290",Sparepart,SUP-0034,199100,140
+IPRD-0291,"Inventory Product 291","Raw Material",SUP-0080,286000,278
+IPRD-0292,"Inventory Product 292",Consumable,SUP-0054,602100,195
+IPRD-0293,"Inventory Product 293","Finished Goods",SUP-0028,278800,261
+IPRD-0294,"Inventory Product 294","Finished Goods",SUP-0029,393900,129
+IPRD-0295,"Inventory Product 295",Sparepart,SUP-0068,527600,108
+IPRD-0296,"Inventory Product 296",Packaging,SUP-0027,740100,37
+IPRD-0297,"Inventory Product 297",Sparepart,SUP-0066,431600,62
+IPRD-0298,"Inventory Product 298",Consumable,SUP-0063,529000,300
+IPRD-0299,"Inventory Product 299","Raw Material",SUP-0006,670600,26
+IPRD-0300,"Inventory Product 300",Sparepart,SUP-0001,202200,133

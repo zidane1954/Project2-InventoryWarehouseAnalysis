@@ -1,0 +1,9 @@
+warehouse_id,warehouse_name,city,capacity_sqm
+WH-001,"Warehouse 1",Makassar,3876
+WH-002,"Warehouse 2",Medan,2831
+WH-003,"Warehouse 3",Denpasar,7820
+WH-004,"Warehouse 4",Surabaya,2454
+WH-005,"Warehouse 5",Semarang,2992
+WH-006,"Warehouse 6",Bandung,1146
+WH-007,"Warehouse 7",Jakarta,1891
+WH-008,"Warehouse 8",Semarang,1809
